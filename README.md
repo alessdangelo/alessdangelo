@@ -2,6 +2,8 @@
 
 <p>Your beloved student, nerd and curious tech enthusiast from 🇨🇭 switzerland.</p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U05DMSP)
+
 ## 🔍 About me
 
 - 🗣️ I speak: French and English
