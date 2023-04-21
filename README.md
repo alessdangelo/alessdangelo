@@ -39,4 +39,6 @@
 <p>
 <img height = 28vmax alt="MAC OS" src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/>
 <img height = 28vmax alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img height = 28vmax alt="linux" src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white" />
+
 </p>
