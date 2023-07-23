@@ -30,18 +30,13 @@
 <!--TODO: add tailwinds/bootstrap -->
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & 💻 Environnements
 
 <p>
 <img height = 28vmax alt="Visual Studio Code" src="badges/badge-VS Code.svg" />
 <img height = 28vmax alt="Figma" src="badges/badge-Figma.svg" />
-</p>
-
-### 💻 Environnements
-
-<p>
 <img height = 28vmax alt="MAC OS" src="badges/badge-mac os.svg"/>
 <img height = 28vmax alt="Windows" src="badges/badge-Windows.svg" />
 <img height = 28vmax alt="linux" src="badges/badge-Linux.svg" />
-
 </p>
+
