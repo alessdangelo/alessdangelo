@@ -1,6 +1,6 @@
 # 👻 **Boo**, I'm Alessandro <!--(https://alessdangelo.github.io)-->
 
-<p>Your beloved student, nerd and curious tech enthusiast from 🇨🇭 switzerland.</p>
+<p>Your beloved nerd and curious tech enthusiast from 🇨🇭 Switzerland.</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U05DMSP)
 
@@ -10,11 +10,11 @@
 - 🤠 My Pronouns: he/him
 - 🎯 My Hobbies: 🛹 🎮 💻 📖
 
-### 🧠 Currently learning & using
+### 🧠 Currently learning or plan to
 
 <p>
-<img height =28vmax alt="JEKYLL" src="badges/badge-jekyll.svg" />
-<img height =28vmax alt="PYTHON" src="badges/badge-Python.svg" />
+<img height =28vmax alt="LARAVEL" src="badges/badge-laravel.svg" />
+<img height =28vmax alt="REACT" src="badges/badge-react.svg" />
 </p>
 
 ### 🧑🏻‍💻 I can use
@@ -27,7 +27,8 @@
 <img height = 28vmax alt="PHP" src="badges/badge-PHP.svg" />
 <img height =28vmax alt="PYTHON" src="badges/badge-Python.svg" /> 
 <img height = 28vmax alt="DJANGO" src="badges/badge-Django.svg" />
-<!--TODO: add tailwinds/bootstrap -->
+<img height = 28vmax alt="DJANGO" src="badges/badge-tailwind.svg" />
+<img height = 28vmax alt="DJANGO" src="badges/badge-bootstrap.svg" />
 </p>
 
 ### 🛠 Tools & 💻 Environnements
