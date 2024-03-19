@@ -29,6 +29,7 @@
 <img height = 28vmax alt="DJANGO" src="badges/badge-Django.svg" />
 <img height = 28vmax alt="DJANGO" src="badges/badge-tailwind.svg" />
 <img height = 28vmax alt="DJANGO" src="badges/badge-bootstrap.svg" />
+<img height = 28vmax alt="DJANGO" src="badges/badge-sq-bootstrap.svg" />
 </p>
 
 ### 🛠 Tools & 💻 Environnements
