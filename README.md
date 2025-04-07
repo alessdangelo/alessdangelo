@@ -1,21 +1,8 @@
-# 👻 **Boo**, I'm Alessandro <!--(https://alessdangelo.github.io)-->
+# 👻 **Boo**, I'm Aless
 
 <p>Your beloved nerd and curious tech enthusiast from 🇨🇭 Switzerland.</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U05DMSP)
-
-### 🔍 About me
-
-- 🗣️ I speak: French and English
-- 🤠 My Pronouns: he/him
-- 🎯 My Hobbies: 🛹 🎮 💻 📖
-
-### 🧠 Currently learning or plan to
-
-<p>
-<img height =28vmax alt="LARAVEL" src="badges/badge-laravel.svg" />
-<img height =28vmax alt="REACT" src="badges/badge-react.svg" />
-</p>
 
 ### 🧑🏻‍💻 I can use
 
